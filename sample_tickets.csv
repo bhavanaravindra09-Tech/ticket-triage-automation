@@ -1,0 +1,21 @@
+id,subject,description,impact,created_at
+T-101,VPN connection drops every 10 minutes,User reports VPN disconnecting repeatedly since this morning. Cannot access shared drives.,high,2026-09-29 08:05
+T-102,Password reset request,New hire cannot log in; needs password reset for first-day access.,medium,2026-09-29 08:20
+T-103,Phishing email reported,Employee received suspicious email asking for credentials. Did not click the link.,high,2026-09-29 08:35
+T-104,Printer not working on 3rd floor,Printer shows offline in Windows. Restart did not help.,low,2026-09-29 08:50
+T-105,Outlook crashes on startup,Outlook closes immediately after opening. User cannot access email.,medium,2026-09-29 09:10
+T-106,Email system down for all users,No one can send or receive email since 9am. Possible mail server outage.,high,2026-09-29 09:15
+T-107,Laptop running very slow,Boot takes 15 minutes. Disk usage at 100% in Task Manager.,medium,2026-09-29 09:30
+T-108,Locked out of account,Too many failed logins; account locked. User needs urgent access for client call.,high,2026-09-29 09:45
+T-109,Wi-Fi not connecting in meeting room,Boardroom Wi-Fi shows connected but no internet. Meeting at 11am.,medium,2026-09-29 10:00
+T-110,Install Adobe Reader,Request to install Adobe Reader on workstation.,low,2026-09-29 10:15
+T-111,Malware alert on workstation,Antivirus quarantined a trojan on finance PC. Needs investigation.,high,2026-09-29 10:25
+T-112,Monitor flickering,Second monitor flickers intermittently. Tried different cable.,low,2026-09-29 10:40
+T-113,Teams microphone not working,Microphone not detected in Teams calls. Works in other apps.,medium,2026-09-29 11:00
+T-114,Shared drive access request,New team member needs access to the marketing shared folder.,low,2026-09-29 11:20
+T-115,Internet slow across office,Whole office reporting slow internet since morning. ISP ticket open.,high,2026-09-29 07:30
+T-116,Excel file corrupted,Quarterly report spreadsheet will not open; shows corruption error.,medium,2026-09-29 11:35
+T-117,Keyboard keys sticking,Spacebar sticks on user's keyboard. Request replacement.,low,2026-09-29 11:50
+T-118,Suspicious login from unknown location,Alert: user account logged in from an unusual country at 3am.,high,2026-09-29 06:15
+T-119,Software update failed,Windows update fails with error 0x80070002 repeatedly.,medium,2026-09-29 12:05
+T-120,New laptop setup,"Onboarding setup for new hire starting Monday: laptop, accounts, apps.",low,2026-09-29 12:20
